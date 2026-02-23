@@ -1,0 +1,101 @@
+============================================================
+       STUDENT PERFORMANCE ANALYSIS REPORT
+============================================================
+Generated on : 2026-02-23 04:13:38
+Dataset      : students_performance.csv
+Total Records: 15
+
+------------------------------------------------------------
+OVERALL STATISTICS
+------------------------------------------------------------
+Highest Average Score : 92.6
+Lowest Average Score  : 64.6
+Class Average Score   : 78.89
+Highest Total Marks   : 463
+Lowest Total Marks    : 323
+
+------------------------------------------------------------
+SUBJECT-WISE CLASS AVERAGES
+------------------------------------------------------------
+  Math        : 79.13
+  Science     : 80.53
+  English     : 78.27
+  History     : 75.47
+  Computer    : 81.07
+
+------------------------------------------------------------
+TOP PERFORMING STUDENT
+------------------------------------------------------------
+  Name       : Meera Joshi
+  Student ID : S012
+  Department : Computer Science
+  Total Marks: 463
+  Average    : 92.6
+  Grade      : A+
+
+------------------------------------------------------------
+DEPARTMENT-WISE ANALYSIS
+------------------------------------------------------------
+
+  Department: Computer Science
+    Student Count  : 6
+    Average Total  : 436.0
+    Average Score  : 87.2
+    Avg Math      : 91.0
+    Avg Science   : 89.33
+    Avg English   : 83.5
+    Avg History   : 76.33
+    Avg Computer  : 95.83
+
+  Department: Electronics
+    Student Count  : 5
+    Average Total  : 385.2
+    Average Score  : 77.04
+    Avg Math      : 76.4
+    Avg Science   : 81.0
+    Avg English   : 76.6
+    Avg History   : 70.6
+    Avg Computer  : 80.6
+
+  Department: Mechanical
+    Student Count  : 4
+    Average Total  : 343.75
+    Average Score  : 68.75
+    Avg Math      : 64.75
+    Avg Science   : 66.75
+    Avg English   : 72.5
+    Avg History   : 80.25
+    Avg Computer  : 59.5
+
+------------------------------------------------------------
+GRADE DISTRIBUTION
+------------------------------------------------------------
+  Grade A: 5 student(s)
+  Grade A+: 2 student(s)
+  Grade B: 4 student(s)
+  Grade C: 4 student(s)
+
+------------------------------------------------------------
+ALL STUDENTS SUMMARY
+------------------------------------------------------------
+  ID     Name               Dept                 Total    Avg      Grade
+  --------------------------------------------------------------------
+  S012   Meera Joshi        Computer Science     463      92.6     A+
+  S006   Divya Nair         Computer Science     453      90.6     A+
+  S003   Rahul Verma        Computer Science     435      87.0     A
+  S015   Aditya Bose        Computer Science     433      86.6     A
+  S001   Aarav Sharma       Computer Science     421      84.2     A
+  S014   Lakshmi Rao        Electronics          416      83.2     A
+  S009   Vikram Das         Computer Science     411      82.2     A
+  S008   Pooja Reddy        Electronics          395      79.0     B
+  S005   Kiran Mehta        Electronics          388      77.6     B
+  S002   Priya Patel        Electronics          383      76.6     B
+  S010   Ananya Gupta       Mechanical           367      73.4     B
+  S004   Sneha Iyer         Mechanical           347      69.4     C
+  S011   Rohit Kumar        Electronics          344      68.8     C
+  S013   Sanjay Pillai      Mechanical           338      67.6     C
+  S007   Arjun Singh        Mechanical           323      64.6     C
+
+============================================================
+              END OF REPORT
+============================================================
